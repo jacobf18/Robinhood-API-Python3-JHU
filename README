@@ -1,0 +1,2 @@
+This package is an updated package of the Robinhood Python API: https://github.com/Jamonek/Robinhood
+It includes an update for multistep authentication from this Github answer: https://github.com/Jamonek/Robinhood/issues/176
